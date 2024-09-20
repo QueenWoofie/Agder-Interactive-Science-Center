@@ -1,0 +1,20 @@
+:root {
+    /* COLORS */
+    --color-darkmain: #141414;
+    --color-tertm8: #F1FBF7;
+    --color-tertm3: #AEE7D3;
+    --color-tertmain: #86DBBE;
+    --color-tertp3: #59927E;
+    --color-tertp4: #4A7969;
+    --color-tertp5: #3B6154;
+    --color-tertp6: #2C493F;
+    --color-tertp7: #1D302A;
+    --color-tertp8: #0E1815;
+    --color-secom8: #E4E8EA;
+    --color-secomain: #0D3443;
+    --color-transparent: rgba(0, 0, 0, 0);
+
+    /* EFFECTS */
+    --textshadow-hover: 1px 1px 3px rgba(0, 0, 0, 0.25);
+    --boxshadow-hover: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
