@@ -194,6 +194,18 @@ footer .logo {
     width: 100%;
 }
 
+.license-frame {
+    display: flex;
+    flex-direction: column;
+    float: right;
+}
+
+.license {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
 .title {
     text-decoration: underline;
     display: flex;
